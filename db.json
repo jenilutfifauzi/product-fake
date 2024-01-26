@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    },
+    {
+      "id": 2,
+      "title": "woy"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "pencil",
+      "proce": "2000"
+    },
+    {
+      "id": 2,
+      "name": "botol",
+      "price": "9000"
+    }
+  ]
+}
